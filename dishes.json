@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"ABC",
+        "price":10,
+        "rating": 4.5,
+        "comments":[
+            {
+                "description":"Yummy",
+                "author":"aman jais"
+            },
+            {
+                "description":"Love It",
+                "author":"beauty singh"
+            }
+        ]
+    },
+    {
+        "id":1,
+        "name":"ABC",
+        "price":10,
+        "rating": 4.5,
+        "comments":[
+            {
+                "description":"Yummy",
+                "author":"aman jais"
+            },
+            {
+                "description":"Love It",
+                "author":"beauty singh"
+            }
+        ]
+    },
+    {
+        "id":1,
+        "name":"ABC",
+        "price":10,
+        "rating": 4.5,
+        "comments":[
+            {
+                "description":"Yummy",
+                "author":"aman jais"
+            },
+            {
+                "description":"Love It",
+                "author":"beauty singh"
+            }
+        ]
+    },
+    {
+        "id":1,
+        "name":"ABC",
+        "price":10,
+        "rating": 4.5,
+        "comments":[
+            {
+                "description":"Yummy",
+                "author":"aman jais"
+            },
+            {
+                "description":"Love It",
+                "author":"beauty singh"
+            }
+        ]
+    }    
+]
