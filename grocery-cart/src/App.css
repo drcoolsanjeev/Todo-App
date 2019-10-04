@@ -1,0 +1,18 @@
+body {
+  font: 14px/18px "Asap", sans-serif;
+  background: #fff;
+  color: #333; }
+  @media (min-width: 992px) {
+    body {
+      max-width: 1366px;
+      width: 100%;
+      margin: 0 auto;
+      float: none; } }
+  body img {
+    max-width: 150px;
+    width: 100%;
+    margin: 0 auto; }
+  body .brand-title {
+    font: 20px/24px "Bitter", serif;
+    font-weight: 700;
+    color: #5c3b8b; }
